@@ -1,7 +1,7 @@
 name: flutter_calculator
 description: "Enhance your Flutter apps with a built-in, easy-to-use calculator widget."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Suneel-DK/flutter_calculator/tree/main
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
